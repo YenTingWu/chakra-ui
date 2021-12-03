@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.5.0
+
+### Minor Changes
+
+- [#5188](https://github.com/chakra-ui/chakra-ui/pull/5188)
+  [`23e8fadbf`](https://github.com/chakra-ui/chakra-ui/commit/23e8fadbf9a9d33d4591c5db83749bdb2419fab4)
+  Thanks [@Alfxjx](https://github.com/Alfxjx)! - fix type errors in accordion
+  storybook files
+
+### Patch Changes
+
+- Updated dependencies
+  [[`17400aff6`](https://github.com/chakra-ui/chakra-ui/commit/17400aff62601c1b70dcc4e60af1fadf3915f3e0)]:
+  - @chakra-ui/icon@2.0.0
+
 ## 1.4.1
 
 ### Patch Changes
